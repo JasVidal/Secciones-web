@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url('https://images.pexels.com/photos/2004161/pexels-photo-2004161.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2');
+  background-size: cover;
+  font-family: "Space Mono";
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
+}
+
+.container {
+  background-color: #000000e3;
+  border-radius: 9px;
+  width: 100vh;
+  height: 30vh;
+  align-content: center;
+}
+
+.key {
+  background-color: #eee;
+  box-shadow: 1px 1px 3px rgba(93, 242, 255, 0.858);
+  display: inline-flex;
+  align-items: center;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 20px;
+  flex-direction: column;
+  margin: 10px;
+  min-width: 150px;
+  position: relative;
+}
+
+.key small {
+  position: absolute;
+  top: -24px;
+  left: 0;
+  text-align: center;
+  width: 100%;
+  color: #ffffff;
+  font-size: 14px;
+}
+
+.red {
+  color: #ef282b;
+}
+
+.green {
+  color: #0c9631;
+}
