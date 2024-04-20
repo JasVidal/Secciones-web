@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    background-color: rgb(181, 85, 50);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    overflow: hidden;
+    margin: 0;
+  }
+  
+  .empty {
+    height: 250px;
+    width: 200px;
+    margin: 10px;
+    border: solid 3px black;
+    background: rgba(255, 255, 255, 0.728);
+  }
+  
+  .fill {
+    background-image: url("https://images.pexels.com/photos/164455/pexels-photo-164455.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    height: 245px;
+    width: 194.5 px;
+    cursor: pointer;
+  }
+  
+  .hold {
+    border: solid 5px #ccc;
+  }
+  
+  .hovered {
+    background-color: #8cd238;
+    border-color: white;
+    border-style: dashed;
+  }
+  
+  @media (max-width: 800px) {
+    body {
+      flex-direction: column;
+    }
+  }
