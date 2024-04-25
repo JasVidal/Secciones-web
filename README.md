@@ -3,7 +3,7 @@
 
 Bienvenidos al repositorio de más de 100 mini proyectos web que utilizan HTML, CSS y JavaScript. Este sirve como un recurso para practicar habilidades, explorar nuevas técnicas e inspirarse con una amplia gama de proyectos web. El compañero ideal para embarcarnos en el viaje de los 100 días de código y desafiarnos a nosotros mismos.
 
-[Mira todo el proyecto en CodePen](https://)
+[Mira todo el proyecto en CodePen](https://codepen.io/collection/ExJeLG)
 
 ## Proyecto
 
@@ -11,9 +11,9 @@ Explora cada uno de los proyectos:
 
 |  #  | Proyecto                                                                | Demostración                                                 |
 | :-: | ---------------------------------------------------------------------- | -------------------------------------------------------- |
-| 001 | [Galería](001-expanding%20cards)                               | [Ver ahora](https://codepen.io/solygambas/full/qBaMWjE)  |
-| 002 | [Progress Steps](002-progress%20steps)                                 | [Ver ahora](https://codepen.io/solygambas/full/VwKGzzg)  |
-| 003 | [Rotating Navigation Animation](003-rotating%20navigation)             | [Ver ahora](https://codepen.io/solygambas/full/jOMvZqY)  |
+| 001 | [Galería](001-expanding%20cards)                               | [Ver ahora](https://codepen.io/JasVidal/pen/LYvqRNP)  |
+| 002 | [Línea de tiempo](002-progress%20steps)                                 | [Ver ahora](https://codepen.io/JasVidal/pen/XWQOjdo)  |
+| 003 | [Navegador rotativo](003-rotating%20navigation)             | [Ver ahora](https://codepen.io/JasVidal/pen/XWQOjKo)  |
 | 004 | [Hidden Search Widget](004-hidden%20search%20widget)                   | [Ver ahora](https://codepen.io/solygambas/full/mdrzdPB)  |
 | 005 | [Blurry Loading](005-blurry%20loading)                                 | [Ver ahora](https://codepen.io/solygambas/full/WNGaNgB)  |
 | 006 | [Scroll Animation](006-scroll%20animation)                             | [Ver ahora](https://codepen.io/solygambas/full/JjRmoWL)  |
