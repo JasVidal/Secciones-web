@@ -1,7 +1,7 @@
 
 # 100 Proyectos en 100 Días - HTML, CSS & JavaScript
 
-Bienvenidos al repositorio de más de 100 mini proyectos web que utilizan HTML, CSS y JavaScript. Este sirve como un recurso para que practicar habilidades, explorar nuevas técnicas e inspirarse con una amplia gama de proyectos web. El compañero ideal para embarcarnos en el viaje de los 100 días del código y desafiarnos a nosotros mismos.
+Bienvenidos al repositorio de más de 100 mini proyectos web que utilizan HTML, CSS y JavaScript. Este sirve como un recurso para practicar habilidades, explorar nuevas técnicas e inspirarse con una amplia gama de proyectos web. El compañero ideal para embarcarnos en el viaje de los 100 días de código y desafiarnos a nosotros mismos.
 
 [Mira todo el proyecto en CodePen](https://)
 
@@ -50,7 +50,7 @@ Explora cada uno de los proyectos:
 
 ## Inspírate
 
-Consulte nuestra [colección de artículos](https://) para aquellos que se inician en el desarrollo web. Encuentre consejos, trucos y contenido motivador para mantenerse comprometido y motivado durante todo su proceso de aprendizaje.
+Consulte nuestra [colección de artículos](https://) para aquellos que se inician en el desarrollo web. Encuentra consejos, trucos y contenido motivador para mantenerte comprometido y motivado durante todo su proceso de aprendizaje.
 
 ## Agradecimientos
 
@@ -59,7 +59,7 @@ Este repositorio se basa principalmente en dos cursos de Brad Traversy (2020):
 - [50 Projects In 50 Days - HTML, CSS & JavaScript](https://www.udemy.com/course/50-projects-50-days/)
 - [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
 
-## Apóyanos
+## Apóyame
 
 Si este proyecto te resulta útil o interesante, considera destacar el repositorio. Es un gesto sencillo que ayuda a aumentar la visibilidad del proyecto y agradecer el esfuerzo puesto en su elaboración. ¡Gracias!
 
