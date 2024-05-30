@@ -1,0 +1,14 @@
+.card {
+    background: rgb(151, 199, 197);
+    border-radius: 8px;
+    padding: 15px;
+  }
+
+  .btn {
+    background: #ff4f1f;
+    color: #fff;
+    padding: 8px 12px;
+    border-radius: 8px;
+    text-decoration: none;
+    display: inline-block;
+  }
