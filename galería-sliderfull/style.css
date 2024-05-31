@@ -39,15 +39,15 @@ body {
   left: 0;
   width: 100%;
   opacity: 0;
-  background-color: rgba(229, 235, 243, 0.8);
-  color: #495b73;
+  background-color: rgba(0, 0, 0, 0.8);
+  color: #cee4ff;
   padding: 1rem;
   line-height: 1.3;
 }
 
 .slide .content h1 {
   margin-bottom: 0.625rem;
-  color: #362a2b;
+  color: #efa0ff;
   font-size: 1.5rem;
 }
 
@@ -58,32 +58,32 @@ body {
 }
 
 .slide:first-child {
-  background: url("https://images.pexels.com/photos/3768892/pexels-photo-3768892.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1") no-repeat
+  background: url("https://www.eluniverso.com/resizer/ZnI0DTHned9daNADgn7T_KpH0n8=/arc-anglerfish-arc2-prod-eluniverso/public/ITNJAFQGZBDQZGXEOZ7BPMAHHU.jpg") no-repeat
     center top/cover;
 }
 
 .slide:nth-child(2) {
-  background: url("https://images.pexels.com/photos/3779667/pexels-photo-3779667.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1") no-repeat
+  background: url("https://media.glamour.mx/photos/62362076672a1f3aa4b94bcb/16:9/w_4211,h_2368,c_limit/MCDHAP2_EC234.jpg") no-repeat
     center top/cover;
 }
 
 .slide:nth-child(3) {
-  background: url("https://images.pexels.com/photos/1656669/pexels-photo-1656669.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1") no-repeat
+  background: url("https://image.gala.de/22621636/t/Bw/v5/w1440/r1.5/-/bonnie-wright.jpg") no-repeat
     center top/cover;
 }
 
 .slide:nth-child(4) {
-  background: url("https://images.pexels.com/photos/845434/pexels-photo-845434.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1") no-repeat
+  background: url("https://hips.hearstapps.com/hmg-prod/images/tom-felton-unveils-the-new-professor-sprouts-greenhouse-news-photo-1666168262.jpg") no-repeat
     center top/cover;
 }
 
 .slide:nth-child(5) {
-  background: url("https://images.pexels.com/photos/11002888/pexels-photo-11002888.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1") no-repeat
+  background: url("https://imageirl.imageresizer.io/V44A3iJVl2-s1280x720-q85.jpg") no-repeat
     center top/cover;
 }
 
 .slide:nth-child(6) {
-  background: url("https://images.pexels.com/photos/12482765/pexels-photo-12482765.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=10") no-repeat
+  background: url("https://www.bigissue.com/wp-content/uploads/2013/09/Matthew-Lewis-hero.jpg") no-repeat
     center center/cover;
 }
 
@@ -111,7 +111,7 @@ body {
 
 .buttons button:hover {
   background-color: #e5ebf3;
-  color: #362a2b;
+  color: #111010;
 }
 
 @media (min-width: 640px) and (min-height: 640px) {
